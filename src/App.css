@@ -1,0 +1,32 @@
+/* Add specific styles for the app */
+#app {
+  text-align: center;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid #ddd;
+  margin-top: 20px;
+}
+
+th, td {
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+th {
+  background-color: #f0f0f0;
+  font-weight: bold;
+}
+
+td {
+  text-align: left;
+}
+
+/* Add more styles as needed */
